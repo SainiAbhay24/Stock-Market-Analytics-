@@ -7,8 +7,8 @@ from datetime import datetime
 DB_HOST = "localhost"
 DB_PORT = "5432"
 DB_NAME = "Stock_Market"
-DB_USER = "postgres"
-DB_PASS = "Sainiabhay24"
+DB_USER = "Your DB"
+DB_PASS = "Your Pass"
 
 # 2. 50 Stocks List (25 Indian + 25 Global)
 TICKERS = [
