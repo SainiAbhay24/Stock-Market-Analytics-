@@ -7,8 +7,8 @@ import yfinance as yf
 # Database Connection Details
 DB_CONFIG = {
     "dbname": "Stock_Market",      
-    "user": "postgres",            
-    "password": "Sainiabhay24",    
+    "user": "Your DB",            
+    "password": "Your Pass",    
     "host": "localhost",
     "port": "5432",
 }
