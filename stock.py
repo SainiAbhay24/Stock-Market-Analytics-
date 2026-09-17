@@ -7,8 +7,8 @@ from psycopg2.extras import execute_values
 
 DB_CONFIG = {
     "dbname": "Stock_Market",
-    "user": "postgres",
-    "password": "Sainiabhay24",
+    "user": "Your DB",
+    "password": "Your Pass",
     "host": "localhost",
     "port": "5432"
 }
